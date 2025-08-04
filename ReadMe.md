@@ -1,5 +1,5 @@
 # Cynthia Ugwu
-This Cynthia Ugwu's website.
+This is Cynthia Ugwu's website.
 
 ## Technology
 It includes only frontend part of the website based on
