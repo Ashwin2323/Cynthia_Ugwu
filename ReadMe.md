@@ -1,5 +1,4 @@
-#  Clone
-# ⛳️ Cynthia Ugwu
+# Cynthia Ugwu
 This Cynthia Ugwu's website.
 
 ## Technology
